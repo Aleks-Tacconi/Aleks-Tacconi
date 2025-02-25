@@ -17,7 +17,7 @@
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h3>About me</h3>
+      <h2>About</h2>
     </summary>
   </ul>
 </div>
