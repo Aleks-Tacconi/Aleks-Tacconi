@@ -30,33 +30,4 @@ For my A level computer science NEA (Non-Exam Assestment), I developed a 3D-rend
 
 I enjoy attending hackathons and working on innovative projects. My development setup includes Neovim and Arch Linux, optimizing my workflow for efficiency and flexibility.
 
-<br>
-
-<div id="user-content-toc">
-  <ul style="list-style: none;">
-    <summary>
-    <h2>Tech Stack</h2>
-
-<h1 align="center">
-
-![Python](https://img.shields.io/badge/python-%233570A0.svg?style=for-the-badge&logo=python&logoColor=%23ffdd54)&nbsp;
-![Java](https://img.shields.io/badge/java-%23B00020.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)&nbsp;
-![Lua](https://img.shields.io/badge/lua-%23006BB6.svg?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%231E1E1E.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%23197CCE.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%231E1E1E.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/linux-%23131313.svg?style=for-the-badge&logo=archlinux&logoColor=%23B8D7FF)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-%230A2A47.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Mac OS](https://img.shields.io/badge/MacOS-%23131313.svg?style=for-the-badge&logo=apple&logoColor=%23B8D7FF)
-![GitHub](https://img.shields.io/badge/github-%231E1E1E.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![ChatGPT](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)&nbsp;
-![ElevenLabs](https://img.shields.io/badge/Elevenlabs-%23000000.svg?style=for-the-badge&logo=elevenlabs&logoColor=white)&nbsp;
-![NeoVim](https://img.shields.io/badge/neovim-%232AAA5E.svg?style=for-the-badge&logo=neovim&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/vscode-%232F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white)&nbsp;
-
-</h1>
-</summary>
-</ul>
-</div>
 
