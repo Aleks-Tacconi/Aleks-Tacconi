@@ -30,11 +30,12 @@ For my A level computer science NEA (Non-Exam Assestment), I developed a 3D-rend
 
 I enjoy attending hackathons and working on innovative projects. My development setup includes Neovim and Arch Linux, optimizing my workflow for efficiency and flexibility.
 
-I currently have experience in the following technologies:
+<br>
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
+    <h2>Tech Stack</h2>
 
 <h1 align="center">
 
@@ -58,3 +59,4 @@ I currently have experience in the following technologies:
 </summary>
 </ul>
 </div>
+
