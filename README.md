@@ -1,5 +1,3 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary align="center">
@@ -60,7 +58,3 @@ I currently have experience in the following technologies:
 </summary>
 </ul>
 </div>
-
----
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
