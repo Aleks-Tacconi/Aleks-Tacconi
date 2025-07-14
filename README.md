@@ -17,6 +17,6 @@
 
 I am currently a full-time Computer Science student at [Royal Holloway, University of London](https://www.royalholloway.ac.uk/). <br>
 
-I went sixth form in the [The Billericay School](https://www.billericayschool.com/) where I studied computer science, mathematics and business.
+I went to sixth form in [The Billericay School](https://www.billericayschool.com/) where I studied computer science, mathematics and business.
 
-Outside of my studies I enjoy attending hackathons and working on independent software projects, many of which can be explored in the [repositories section of my GitHub](https://github.com/Aleks-Tacconi?tab=repositories).
+Outside my studies, I enjoy attending hackathons and working on independent software projects, many of which can be explored in the [repositories section of my GitHub](https://github.com/Aleks-Tacconi?tab=repositories).
