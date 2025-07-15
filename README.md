@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-<a href="https://devpost.com/aleks-tacconi" target="blank"><img align="center" src="https://img.shields.io/badge/Aleks Tacconi-0077B5?style=for-the-badge&logo=devpost&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:aleks.tacconi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aleks.tacconi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.github.com/Aleks-Tacconi" target="blank"><img align="center" src="https://img.shields.io/badge/Aleks--Tacconi-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aleksander-tacconi-759b77374/" target="blank"><img align="center" src="https://img.shields.io/badge/Aleksander Tacconi-0A66C2?style=for-the-badge&logo=logmein&logoColor=white" /></a>
+<a href="https://devpost.com/aleks-tacconi" target="blank"><img align="center" src="https://img.shields.io/badge/Aleks Tacconi-0077B5?style=for-the-badge&logo=devpost&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:aleks.tacconi@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aleks.tacconi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.github.com/Aleks-Tacconi" target="blank"><img align="center" src="https://img.shields.io/badge/Aleks--Tacconi-100000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aleksander-tacconi/" target="blank"><img align="center" src="https://img.shields.io/badge/Aleksander Tacconi-0A66C2?style=for-the-badge&logo=logmein&logoColor=white" /></a>
 
 </p>
 
