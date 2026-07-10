@@ -1,7 +1,9 @@
-<div align="center">
-
-# 👋 Aleksander Tacconi
-
+<div id="user-content-toc" align="center">
+  <ul align="center" style="list-style: none;">
+    <summary align="center">
+      <h1 align="center">👋 Aleksander Tacconi</h1>
+    </summary>
+  </ul>
 </div>
 
 <p align="center"><a href="https://devpost.com/aleks-tacconi"><img src="https://img.shields.io/badge/Devpost-000000?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"></a>&nbsp;&nbsp;<a href="mailto:aleks.tacconi@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;<a href="https://github.com/Aleks-Tacconi"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/aleksander-tacconi/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=logmein&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://x.com/aloosh_btw"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>&nbsp;&nbsp;<a href="https://aleks-tacconi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a></p>
