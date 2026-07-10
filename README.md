@@ -1,7 +1,7 @@
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary align="center">
-      <h1 align="center">👋 Aleksander Tacconi</h1>
+      <h1 align="center">Aleksander Tacconi</h1>
     </summary>
   </ul>
 </div>
