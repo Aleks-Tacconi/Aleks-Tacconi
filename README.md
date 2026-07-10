@@ -21,7 +21,7 @@ Outside work and university, I enjoy going to hackathons and building independen
 ## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,go,js,ts,html,css,react,django,flask,spring,nodejs,electron,vite,materialui,postgres,mysql,redis,elasticsearch,aws,docker,kubernetes,git,github,linux,nix,neovim,lua,arduino&perline=10" alt="Technologies">
+  <img src="https://skillicons.dev/icons?i=python,java,c,go,js,ts,html,css,react,django,flask,spring,nodejs,electron,vite,materialui,postgres,mysql,redis,elasticsearch,aws,docker,kubernetes,git,github,linux,nix,neovim,lua,arduino&perline=15" alt="Technologies">
 </p>
 
 ## Hackathon Wins
