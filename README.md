@@ -16,7 +16,7 @@ Before university, I studied Computer Science, Mathematics, and Business at [The
 
 I am currently working as an **IAUTO Intern at [CrowdStrike](https://www.crowdstrike.com/en-us/)**.
 
-Previously, from **May 2025 to December 2025**, I worked remotely as a **Python and AI Engineer at [Errepi Distribuzione](https://errepidistribuzione.com/en/company.html)**, where I helped build internal AI and data tools. And prior to that from **June 2023 to July 2023**, I worked as an **IT Support Technician at [Every Child Online](https://everychildonline.co.uk/)**, helping refurbish donated computers and prepare them for redistribution.
+Previously, from **May 2025 to December 2025**, I worked remotely as a **Python and AI Engineer at [Errepi](https://www.errepi.it/)**, where I helped build internal AI and data tools. And prior to that from **June 2023 to July 2023**, I worked as an **IT Support Technician at [Every Child Online](https://everychildonline.co.uk/)**, helping refurbish donated computers and prepare them for redistribution.
 
 Outside work and university, I enjoy going to hackathons and building independent software projects, many of which are linked below.
 
